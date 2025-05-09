@@ -1,7 +1,7 @@
 # ShorterCode
 
 We propose a novel approach to generate shorter code using LLMs.
-![1](Figures/approach.png)
+![1](approach.png)
 
 Our contributions can be summarized as follows:
 
