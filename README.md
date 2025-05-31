@@ -1,4 +1,4 @@
-# ShorterCode
+# ShortCoder
 
 We propose a novel approach to generate shorter code using LLMs.
 ![1](approach.png)
