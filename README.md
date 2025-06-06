@@ -53,7 +53,7 @@ python finetune.py \
 #### Reference
 
 ```
-python inference.py \
+python inference_lora.py \
 --load_8bit \
 --base_model 'codellama/CodeLlama-7b-Instruct-hf' \
 --lora_weights '../output'
