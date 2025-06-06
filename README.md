@@ -1,7 +1,7 @@
 # ShortCoder
 
 We propose a novel approach to generate shorter code using LLMs.
-![1](approach.png)
+![1](approach.pdf)
 
 Our contributions can be summarized as follows:
 * We present and publicly release ShorterCodeBench, a high-quality code brevity optimization dataset comprising 828 carefully curated <original code, simplified code> pairs.
